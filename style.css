@@ -1,1 +1,9 @@
-.jumbotron { background:url(/main.jpg) center no-repeat; background-size: cover;}
+.jumbotron { center no-repeat; background-size: cover;}
+.face{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.cent{
+text-center;
+}
