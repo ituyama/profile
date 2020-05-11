@@ -32,3 +32,6 @@
 .text3 {
   font-family: serif;
 }
+.li{
+  list-style-type: none!important
+}
