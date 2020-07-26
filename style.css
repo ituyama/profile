@@ -93,3 +93,13 @@ text-align: center;
 padding-top: 10px;
 
 }
+.size1{
+  font-size:100px;
+  background: linear-gradient( to right,  navy 25%, steelblue 75% );
+ -webkit-background-clip: text;
+ color: transparent;
+
+}
+.size2{
+  font-size: 40px;
+}
