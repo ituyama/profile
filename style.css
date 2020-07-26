@@ -66,6 +66,9 @@ box-shadow:  11px 11px 22px #b0b0b0,
 body{
   background-color: #ff8040;
 }
+ul {
+  list-style: none;
+}
 .icon{
 
 width:60px;
@@ -102,4 +105,17 @@ padding-top: 10px;
 }
 .size2{
   font-size: 40px;
+}
+.top{
+
+  font-family: 'Staatliches', cursive;
+
+  padding-top: 300px;
+}
+.tsens{
+    font-size: 200px;
+}
+.skill{
+  font-size:100px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
